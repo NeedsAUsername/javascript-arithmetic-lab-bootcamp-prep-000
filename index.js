@@ -13,3 +13,7 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b
 }
+
+
+y = parseInt(2.22)
+console.log(y)
