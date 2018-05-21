@@ -15,5 +15,5 @@ function divide(a,b) {
 }
 
 
-y = parseInt(2.22)
+y = parseFloat(2.22)
 console.log(y)
