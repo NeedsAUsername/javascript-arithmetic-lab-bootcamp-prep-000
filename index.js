@@ -1,6 +1,9 @@
 function add(a,b) {
-  y= a + b 
-  console.log(y)
+  return a + b 
 }
 
-add(1,2)
+function subtract(a,b) {
+  return a - b
+}
+
+function multiply()
