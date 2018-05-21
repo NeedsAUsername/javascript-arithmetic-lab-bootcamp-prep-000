@@ -14,6 +14,8 @@ function divide(a,b) {
   return a / b
 }
 
+function inc(n) {
+  return n ++
+}
 
-y = parseInt(2.9)
-console.log(y)
+function
